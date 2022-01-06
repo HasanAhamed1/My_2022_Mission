@@ -1,0 +1,91 @@
+body {
+  font-family: "Merriweather", serif;
+  text-align: left;
+}
+.centering_heading {
+  text-align: center;
+  font-size: 40px;
+}
+.flexibility {
+  display: flex;
+  margin-bottom: 100px;
+}
+.width {
+  width: 50%;
+  padding-top: 5%;
+  padding-left: 10%;
+  text-align: left;
+}
+.width img {
+  width: 70%;
+  margin-top: -15%;
+}
+.orange_color {
+  color: orange;
+}
+.top_heading {
+  font-size: 50px;
+  border-left: 5px solid orangered;
+  padding-left: 10px;
+}
+.new_link {
+  text-decoration: none;
+  background-color: #ff7f50;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.mission {
+  padding: 40px 110px;
+}
+.mission img {
+  width: 35%;
+}
+.progress-path {
+  width: 300px;
+  height: 300 px;
+  padding: 0px 20px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.progress-path:nth-child(1){ 
+  background-color: PapayaWhip;
+}
+.progress-path:nth-child(2){
+  background-color: aquamarine;
+  margin-left: 10px;
+}
+.progress-path:nth-child(3){
+  background-color: PapayaWhip;
+}
+#banner {
+  background-image: url(images/shapes/1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 300px 300px;
+}
+.image_path {
+  width: 50%;
+  padding-left: 10%;
+  padding-right: 0%;
+}
+.image_path img {
+  width: 80%;
+}
+.text_style {
+  width: 70%;
+  margin: 5%;
+  padding-top: 3%;
+}
+#web-illustration{
+  width: 70%;
+  padding-left: 100px;
+}
+footer {
+  margin: 0%;
+  border: 20px solid black;
+  text-align: center;
+  font-size: larger;
+  background-color: black;
+  color: white;
+}
